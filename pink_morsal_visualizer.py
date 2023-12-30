@@ -1,5 +1,5 @@
 import pandas
-from dash import Dash, html, dcc
+from dash import Dash, html, dcc,Input,Output
 
 from plotly.express import line
 
